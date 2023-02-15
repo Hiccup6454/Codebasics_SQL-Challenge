@@ -17,3 +17,7 @@ a.    Dataset required to provide
 b.    Metadata
 c.    Hints (try not to use the hints to develop your skills quicker)
 d.    Sample questions and Presentation
+
+Technologies Used
+
+-SQL Workbench (For SQL)
